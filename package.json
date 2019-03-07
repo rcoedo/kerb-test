@@ -1,0 +1,14 @@
+{
+  "name": "kerb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "kerberos": "1.1.2",
+    "koa": "2.7.0",
+    "nodemon": "1.18.10"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
